@@ -133,6 +133,12 @@ body {
   margin-bottom: 6px;
 }
 .section-sub { color: var(--ink); opacity: .85; margin-bottom: 34px; }
+.section-icon {
+  font-size: 72px;
+  line-height: 1;
+  margin-bottom: 6px;
+  animation: float 4s ease-in-out infinite;
+}
 
 /* ===== Müzik ===== */
 .tracks { display: grid; gap: 26px; }
